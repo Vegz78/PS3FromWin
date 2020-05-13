@@ -32,7 +32,7 @@ Feel free to copy, modify and use as you want. The script does what it's suppose
 
 1 - Download and copy the bat scripts into a folder inside your %PATH% variable and/or make shortcuts on your Windows PC <br>
     Alternatively, in your desired folder, run:<BR>
-    ```git clone https://github.com/Vegz78/WakePS3```
+    ```git clone https://github.com/Vegz78/PS3FromWin```
 
 2 - Install and set up WakePS3 on an always-on and compatible Bluetooth enabled Linux device, as explained here: https://github.com/Vegz78/WakePS3
 
