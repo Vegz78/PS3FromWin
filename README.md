@@ -1,6 +1,8 @@
 # PS3FromWin
 Script package to automate waking and playing your PS3 from your (remote) Windows PC.
 
+It can be used to play your PS3 through Moonlight or Parsec game streaming on different devices at home, remotely on the move, or to remote play together with friends over the internett. With similar setups, as initially inspired by [Flickstiq](https://medium.com/flickstiq-com/stream-any-game-console-to-a-computer-debe3ea24d47) and [Parsec](https://blog.parsecgaming.com/pc-mac-co-play-on-the-xbox-one-ps4-at-1080p60-fc884d9151c0), and with some adaptions to these scripts, this should work with many other console systems as well. If it's not enough to game stream all the games and emulators on the Windows PC itself... ;-)
+
 Consists of one main and easily modifiable caller script, PS3FromWin.bat, and 3 dedicated scripts which can be run independently:
   - WinWakePS3.bat - Remotely power on a PS3 from a Windows PC via a networked Linux device's Bluetooth radio
   - GIMXAdapter.bat - Find and set up GIMX on the correct COM-ports of up to two GIMX adapters connected to the PC
