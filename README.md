@@ -20,8 +20,11 @@ Feel free to copy, modify and use as you want. The script does what it's suppose
 - HDMI capture card and software
 
 # Features
-- Automatically and remotely power on your PS3 remotely over Bluetooth.
-- Can be run directly from the RetroPie Moonlight/Steam games list or from a Linux command line
+- Automatically and remotely power on your PS3 remotely over Bluetooth from a Windows PC(via via a networked Linux device's Bluetooth radio)
+- Automatically set up GIMX adapters connected between your Windows PC and PS3 etc.
+- Automatically start your HDMI capture software to play your PS3 etc. on your Windows PC
+- All the above automatically with PS3FromWin.bat, or 3 other bat scripts independently
+- Some basic error handling
 
 # Usage
 
